@@ -1,7 +1,5 @@
-const cacheName = "DefaultCompany-Sito per le Girls-1.0";
+const cacheName = "Il Caffè Tricolore cache";
 const contentToCache = [
-    "Build/Il-Caff-Tricolore.loader.js",
-    "Build/Il-Caff-Tricolore.framework.js",
     "TemplateData/style.css"
 
 ];
